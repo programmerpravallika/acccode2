@@ -1,4 +1,7 @@
 '''Hari wants to buy a t-shirt, he checked in different shopping accounts. He observed that the different types of discounts on that t-shirt in various shopping accounts.He want to buy the t-shirt with low cost. He asked you to find the cheapest account to buy a t shirt.'''
+
+
+
 print("flipcart")
 a=int(input("enter the price of t-shirt:"))
 b=int(input("enter the discount of t-shirt:"))
